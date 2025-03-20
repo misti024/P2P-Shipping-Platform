@@ -41,5 +41,7 @@ The vision of the P2P Shipping Platform is to create an open, efficient, and dec
 ## Contract Details
 Contract Address: 0xD3212AE0c58569B1f09a14a9844745721a47bC74
 ---
+## Proof
+![Uploading image.png…]()
 
 For more information on how the platform works or to get started, refer to the code and deploy your own instance of the dApp.
